@@ -1,6 +1,7 @@
 # Teapot-as-a-Service (TaaS) (v4.1.8)
 
-Totally Made with Ai.
+![teapot screenshot](code_teapot.png)
+
 
 Minimal stateless HTTP API implemented in Node.js.
 
@@ -41,3 +42,6 @@ curl -i 'http://localhost:8000/teapot'
 curl -i 'http://localhost:8000/health'
 curl -i 'http://localhost:8000/docs'
 ```
+
+
+Totally Made with Ai.
