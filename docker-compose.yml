@@ -1,0 +1,15 @@
+services:
+  teapot:
+    image: node:22-alpine
+    working_dir: /app
+    volumes:
+      - ./:/app
+    command: npm start
+    environment:
+      HOST: 0.0.0.0
+      PORT: 8000
+      QUOTES_FILE: config/teapot_quotes.json
+      LOG_ENABLED: "true"
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

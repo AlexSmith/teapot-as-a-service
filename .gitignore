@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Build and coverage
+coverage/
+.nyc_output/
+dist/
+build/
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tests and temp
+.tmp/
+tmp/
+
+# Python artifacts (from prior local runs)
+.pytest_cache/
+.venv/
+
+# Local specs scratch
+specs/

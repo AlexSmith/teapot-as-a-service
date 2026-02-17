@@ -1,0 +1,14 @@
+{
+  "name": "teapot-as-a-service",
+  "version": "4.1.8",
+  "private": true,
+  "description": "Minimal Node HTTP service that returns 418 teapot responses",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

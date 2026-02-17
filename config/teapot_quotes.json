@@ -1,0 +1,14 @@
+{
+  "quotes": [
+    "I'm a teapot, short and stout",
+    "Here is my handle, here is my spout",
+    "When I get all steamed up, hear me shout",
+    "Tip me over and pour me out",
+    "The requested entity body is short and stout",
+    "HTCPCP/1.0 418 I'm a teapot",
+    "Any attempt to brew coffee with a teapot should result in the error code 418",
+    "I am a teapot. The requested entity body is short and stout.",
+    "Error 418: Brewing coffee in a teapot is not supported",
+    "This server is a teapot, not a coffee machine"
+  ]
+}
