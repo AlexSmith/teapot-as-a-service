@@ -47,3 +47,5 @@ curl -i 'http://localhost:8000/docs'
 
 
 Totally Made with Ai.
+## License
+MIT
